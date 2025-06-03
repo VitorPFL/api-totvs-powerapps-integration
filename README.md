@@ -1,6 +1,3 @@
-# api-totvs-powerapps-integration
-Automação integrada de extração de dados via API TOTVS, envio para SharePoint com Microsoft Graph e consumo via Power Apps.
-
 # Automação Integrada: TOTVS API + Power Apps + Microsoft Graph
 
 Este projeto automatiza o processo de extração de dados de colaboradores via API TOTVS, transforma os dados em JSON e os disponibiliza em uma Lista do SharePoint. Essas informações são consumidas por um aplicativo desenvolvido no Power Apps, promovendo uma integração moderna e sem dependência de Excel.
