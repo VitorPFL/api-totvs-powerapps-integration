@@ -1,0 +1,10 @@
+
+{
+  "authority": "https://login.microsoftonline.com/SEU_TENANT_ID",
+  "client_id": "SEU_CLIENT_ID",
+  "scope": [ "https://graph.microsoft.com/.default" ],
+  "secret": "SEU_CLIENT_SECRET",
+  "endpoint": "https://graph.microsoft.com/v1.0/sites?search=*"
+
+}
+
